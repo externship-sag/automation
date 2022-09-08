@@ -1,0 +1,7 @@
+pageobjects\pageobjectmanager.class
+util\testbase.class
+pageobjects\basketpage.class
+pageobjects\Readpage.class
+pageobjects\shoppage.class
+util\TestContextsetup.class
+pageobjects\sortingpage.class

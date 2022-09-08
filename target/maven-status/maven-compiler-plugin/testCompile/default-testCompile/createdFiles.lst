@@ -1,0 +1,8 @@
+stepdefination\productstepdefination.class
+stepdefination\shoppagestepdefination.class
+CucumberOptions\TestNGTestRunner.class
+stepdefination\Readpagestepdefination.class
+stepdefination\basketpagestepdefination.class
+stepdefination\sortingpagestepdefination.class
+stepdefination\Hooks.class
+stepdefination\salestepdefination.class
