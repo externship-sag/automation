@@ -5,7 +5,7 @@ import org.testng.annotations.DataProvider;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
-@CucumberOptions(features="src/test/java/Features",glue="stepdefination",tags="@basket",plugin= {"html:target/cucucmber.html","json:target/cucumber.json",
+@CucumberOptions(features="src/test/java/Features",glue="stepdefination",plugin= {"html:target/cucucmber.html","json:target/cucumber.json",
 		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
 		"rerun:target/failed_scenarios.txt"})
 
